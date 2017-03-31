@@ -1,0 +1,15 @@
+{ "quiz": [{
+    "question": "create a school management system using libraries in python",
+    "notes": "",
+    "author": "cliff",
+  },
+  {
+  "question": "write hello world in python",
+  "notes": "",
+  "author": "maggie",
+  },
+  {
+  "question": "name four data types in javascript",
+  "notes": "",
+  "author": "newton",
+  }],
